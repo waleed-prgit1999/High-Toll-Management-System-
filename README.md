@@ -1,0 +1,2 @@
+# Highway-Toll-Management-System-
+This is an Integrated Toll Management System Project. The program allows the user to enter the record of vehicle came at toll plaza then program calculate toll for the vehicle according to the specifications of the vehicle also record of the vehicle is saved in computer. It also have advance features of storing record and reviewing when needed, also it can calculate the total amount of toll collected from vehicles.
